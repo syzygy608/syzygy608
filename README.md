@@ -14,6 +14,6 @@
 Cpp : 3 Years;
 C : 2 Years;
 Python : 1 Year;
-Javascript : 3 Months;
+Javascript :  Months;
 
 ```
