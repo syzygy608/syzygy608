@@ -1,6 +1,6 @@
 # Syzygy's introduction
 
-<img src = "https://truth.bahamut.com.tw/s01/202006/631a3ec42482de7335a272e39d1a7005.jpg">
+<img src = "https://truth.bahamut.com.tw/s01/202006/631a3ec42482de7335a272e39d1a7005.JPG">
 
 ## 自我介紹
 
