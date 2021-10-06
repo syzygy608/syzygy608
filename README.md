@@ -8,6 +8,6 @@
 單推 `anninmiru`。
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxigua-1&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syzygy608&langs_count=8&theme=radical)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoxigua-1&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=syzygy608&show_icons=true&theme=radical)
