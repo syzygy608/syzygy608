@@ -7,13 +7,7 @@
 是一個虛擬直播主 `Vtuber` 的愛好者，
 單推 `anninmiru`。
 
-## 目前使用語言
 
-```yaml
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxigua-1&langs_count=8&theme=radical)
 
-CPP : 3 Years;
-C : 2 Years;
-Python : 1 Year;
-JavaScript : 1 Month;
-
-```
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoxigua-1&show_icons=true&theme=radical)
