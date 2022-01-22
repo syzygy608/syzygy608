@@ -4,10 +4,11 @@
 
 ## 自我介紹
 
-大家好我是伊沐洛，目前是中正資工大一，
-一名程式新手，還請大家多多指教：＞
-是一個虛擬直播主 `Vtuber` 的愛好者，
-單推 `anninmiru`。
+I am a studuent who is studying in CCU, Taiwan.
+Learing Front-end, Back-end, and Competitive Programming.
+And I'm also a fan of Taiwan's famous vtuber, AnninMiru.
+
+C / C++ / Python / Html / CSS / JavaScript / Latex 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
