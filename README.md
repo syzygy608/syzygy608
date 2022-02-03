@@ -15,23 +15,23 @@ C / C++ / Python / Html / CSS / JavaScript / Latex
 ## Most Used Languages 📚
 
 <p align='center'>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syzygy608&langs_count=8&theme=github_dark)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=syzygy608&langs_count=8&theme=github_dark">
 </p>
 
 ## Github Stats &nbsp;📊
 
 <p align='center'>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=syzygy608&show_icons=true&theme=github_dark)
+<img src = "https://github-readme-stats.vercel.app/api?username=syzygy608&show_icons=true&theme=github_dark">
 </p>
 
 ## Github Contribution Streak 🔥 
 
 <p align='center'>
-![streak-stats](https://github-readme-streak-stats.herokuapp.com?user=syzygy608&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D")
+<ing src = "https://github-readme-streak-stats.herokuapp.com?user=syzygy608&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
 ## Github Contributions 📈
 
 <p align='center'>
-![contribution](https://activity-graph.herokuapp.com/graph?username=syzygy608&theme=react-dark&hide_border=true)
+<img src = "https://activity-graph.herokuapp.com/graph?username=syzygy608&theme=react-dark&hide_border=true">
 </p>
