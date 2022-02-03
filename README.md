@@ -1,8 +1,5 @@
-# Syzygy's introduction
+## Syzygy's introduction
 
-<img src = "https://truth.bahamut.com.tw/s01/202006/631a3ec42482de7335a272e39d1a7005.JPG">
-
-## 自我介紹
 <h4 align='center'>
 I am a studuent who is studying in CCU, Taiwan. <br>
 Learning Front-end, Back-end, and Competitive Programming. <br>
@@ -35,3 +32,5 @@ C / C++ / Python / Html / CSS / JavaScript / Latex
 <p align='center'>
 <img src = "https://activity-graph.herokuapp.com/graph?username=syzygy608&theme=react-dark&hide_border=true">
 </p>
+
+<img src = "https://truth.bahamut.com.tw/s01/202006/631a3ec42482de7335a272e39d1a7005.JPG">
