@@ -5,7 +5,7 @@
 ## 自我介紹
 
 I am a studuent who is studying in CCU, Taiwan. <br>
-Learing Front-end, Back-end, and Competitive Programming. <br>
+Learning Front-end, Back-end, and Competitive Programming. <br>
 And I'm also a fan of Taiwan's famous vtuber, AnninMiru. <br><br>
 
 C / C++ / Python / Html / CSS / JavaScript / Latex 
