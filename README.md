@@ -12,7 +12,7 @@ C / C++ / Python / Html / CSS / JavaScript / Latex
 ## Most Used Languages 📚
 
 <p align='center'>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=syzygy608&langs_count=8&theme=github_dark">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=syzygy608&layout=compact&theme=github_dark">
 </p>
 
 ## Github Stats &nbsp;📊
