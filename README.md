@@ -2,6 +2,7 @@
 
 <img src = "https://komarev.com/ghpvc/?username=syzygy608&color=blueviolet">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7B82D&size=30&duration=4000&vCenter=true&width=700&lines=Annin+Miru+My+Waifu!)](https://git.io/typing-svg)
 
 I am a studuent who is studying in CCU, Taiwan. <br>
 Learning Front-end, Back-end, and Competitive Programming. <br>
@@ -53,5 +54,7 @@ IDEs/Editors<br>
 <p align='center'>
 <img src = "https://activity-graph.herokuapp.com/graph?username=syzygy608&theme=react-dark&hide_border=true">
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src = "https://truth.bahamut.com.tw/s01/202006/631a3ec42482de7335a272e39d1a7005.JPG">
