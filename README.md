@@ -1,8 +1,7 @@
 ## Syzygy's introduction
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Annin+Miru+the+best)](https://git.io/typing-svg)
-
 <h4 align='center'>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Annin+Miru+the+best)](https://git.io/typing-svg)
 I am a studuent who is studying in CCU, Taiwan. <br>
 Learning Front-end, Back-end, and Competitive Programming. <br>
 And I'm also a fan of Taiwan's famous vtuber, AnninMiru. <br><br>
