@@ -1,9 +1,8 @@
 ## Syzygy's introduction
 
+<img src = "https://komarev.com/ghpvc/?username=syzygy608&color=blueviolet">
+
 <h4 align='center'>
-  
-<img src = "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Annin+Miru+the+best">
- 
 I am a studuent who is studying in CCU, Taiwan. <br>
 Learning Front-end, Back-end, and Competitive Programming. <br>
 And I'm also a fan of Taiwan's famous vtuber, AnninMiru. <br><br>
