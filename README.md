@@ -8,7 +8,11 @@ Learning Front-end, Back-end, and Competitive Programming. <br>
 And I'm also a fan of Taiwan's famous vtuber, AnninMiru. <br><br>
 
 C / C++ / Python / Html / CSS / JavaScript / Latex 
+  
 </h4>
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Most Used Languages 📚
