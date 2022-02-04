@@ -2,14 +2,10 @@
 
 <img src = "https://komarev.com/ghpvc/?username=syzygy608&color=blueviolet">
 
-<h4 align='center'>
+
 I am a studuent who is studying in CCU, Taiwan. <br>
 Learning Front-end, Back-end, and Competitive Programming. <br>
 And I'm also a fan of Taiwan's famous vtuber, AnninMiru. <br><br>
-
-C / C++ / Python / Html / CSS / JavaScript / Latex 
-  
-</h4>
 
 Framrwork<br>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -24,6 +20,13 @@ Language<br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<br>
+IDEs/Editors<br>
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
