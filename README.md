@@ -34,19 +34,19 @@ IDEs/Editors<br>
 ## Most Used Languages 📚
 
 <p align='center'>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=syzygy608&layout=compact&theme=github_dark">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=syzygy608&layout=compact&theme=github_dark&hide_border=true">
 </p>
 
 ## Github Stats &nbsp;📊
 
 <p align='center'>
-<img src = "https://github-readme-stats.vercel.app/api?username=syzygy608&show_icons=true&theme=github_dark">
+<img src = "https://github-readme-stats.vercel.app/api?username=syzygy608&show_icons=true&theme=github_dark&hide_border=true">
 </p>
 
 ## Github Contribution Streak 🔥 
 
 <p align='center'>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=syzygy608&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=syzygy608&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
 </p>
 
 ## Github Contributions 📈
