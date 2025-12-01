@@ -1,9 +1,24 @@
-## Syzygy's introduction
+## Hey there 👋, I'm [Syzygy608](https://github.com/syzygy608)
 
-<img src = "https://komarev.com/ghpvc/?username=syzygy608&color=blueviolet">
 
-I am a studuent studying in CCU, Taiwan. <br>
-Learning Front-end, Back-end, and Algorithm. <br><br>
+### Glad to see you here! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syzygy608&label=Profile%20views&color=0e75b6&style=flat" alt="syzygy608" /> </p>
+
+I am a graduate student at National Cheng Kung University, Taiwan.
+My work centers on graph theory and approximation algorithms for NP-hard problems like Steiner Tree, building on my prior research in pairwise comparison and ranking.
+
+Joined Github **{{ ACCOUNT_AGE }}** years ago.
+
+Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+
+<hr>
+<h3 align="left">✨ Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
+
+### Languages and Tools:
 
 Framework<br>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -26,13 +41,26 @@ IDEs/Editors<br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+### Projects and Dev Stuffs:
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+</details>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Most Used Languages 📚
-
-<p align='center'>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=syzygy608&layout=compact&theme=github_dark&hide_border=true">
-</p>
+### Show some ❤️ by starring some of the repositories!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
