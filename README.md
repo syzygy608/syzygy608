@@ -7,10 +7,6 @@
 I am a graduate student at National Cheng Kung University, Taiwan.
 My work centers on graph theory and approximation algorithms for NP-hard problems like Steiner Tree, building on my prior research in pairwise comparison and ranking.
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
-
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
-
 <hr>
 <h3 align="left">✨ Random Dev Quote</h3>
 <p align="center">
