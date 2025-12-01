@@ -37,22 +37,6 @@ IDEs/Editors<br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### Projects and Dev Stuffs:
-
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
-</details>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
